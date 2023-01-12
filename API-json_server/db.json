@@ -1,0 +1,17 @@
+
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "userName": "Milfer Antonio Muñoz",
+            "email": "milfer0516@correo.com",
+            "password": "a66abb5684c45962d887564f08346e8d" 
+        },
+        {
+            "id": 2,
+            "userName": "Paola Colorado",
+            "email": "paola@correo.com",
+            "password": "a390983751e68f46cfb8835e6aa922c1" 
+        }
+    ]
+}
